@@ -1,5 +1,5 @@
 # firebase_memo
-## firebase first app
+
 
 ```bash
 $ firebase serve
