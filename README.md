@@ -1,6 +1,6 @@
 # firebase_memo
 
-
+localhost
 ```bash
 $ firebase serve
 ```
@@ -11,3 +11,7 @@ and then connect
 http://localhost:5000
 ```
 
+my Url
+```bash
+https://memowebapp-82190.firebaseapp.com
+```
