@@ -15,4 +15,5 @@ my Url
 ```bash
 https://memowebapp-82190.firebaseapp.com
 ```
-should access popup!
+
+팝업이 허용되어있지 않는다면 허용해주셔야 합니다.
